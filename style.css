@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+
+#tat {
+    width: 400px;
+    float: left;
+    margin-left: 100px;
+}
+
+#bee {
+    width: 100px;
+    margin-right: 20px;
+}
+p{
+    display: inline-block;
+    width: 500PX;
+    margin-left: 20px;
+}
+
